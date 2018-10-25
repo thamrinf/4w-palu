@@ -31,6 +31,10 @@ h1,h2,h3,h4,h5{
   margin-bottom: 5px;
 }
 
+#datatable thead {
+    background: #92B560;
+}
+
 #regions_div{
 	height: 700px;
 	margin-top: 0px;
