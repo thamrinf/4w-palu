@@ -7,9 +7,9 @@ ASB Indonesia,WASH,,International NGOs,Donggala,Sindue,Lero,Pajako,Water Treatme
 ASB Indonesia,Early Recovery,,International NGOs,Donggala,Sindue,Lero,Pajako,Water Treatment & Universal Latrine installation + Cash For Work,Cash For Work,,,planned,Oct-20-2018,Nov-04-2018
 ASB Indonesia,WASH,,International NGOs,Sigi,Sigi Biromaru,Ngatabaru,,Water Treatment & Universal Latrine installation + Cash For Work,Water Treatment,,,planned,Oct-20-2018,Nov-04-2018
 ASB Indonesia,Early Recovery,,International NGOs,Sigi,Sigi Biromaru,Ngatabaru,,Water Treatment & Universal Latrine installation + Cash For Work,Cash For Work,,,planned,Oct-20-2018,Nov-04-2018
-ASB Indonesia,WASH,,International NGOs,Sigi,Dolo,Watubula,,Water Treatment & Universal Latrine installation + Cash For Work,Water Treatment,160 HH,800,planned,Oct-20-2018,Nov-04-2018
-ASB Indonesia,Early Recovery,,International NGOs,Sigi,Dolo,Watubula,,Water Treatment & Universal Latrine installation + Cash For Work,Cash For Work,160 HH,800,planned,Oct-20-2018,Nov-04-2018
-BRND,Health,Mobile Clinic,National NGOs,Palu,Mantikulore,Layana Indah,Layanan Indah,Mobile Clinic,,48,570,completed,Oct-15-2018,Oct-15-2018
+ASB Indonesia,WASH,,International NGOs,Sigi,Dolo,Watubula,,Water Treatment & Universal Latrine installation + Cash For Work,Water Treatment,,800,planned,Oct-20-2018,Nov-04-2018
+ASB Indonesia,Early Recovery,,International NGOs,Sigi,Dolo,Watubula,,Water Treatment & Universal Latrine installation + Cash For Work,Cash For Work,,800,planned,Oct-20-2018,Nov-04-2018
+BRND,Health,Mobile Clinic,National NGOs,Palu,Mantikulore,Layana Indah,Layanan Indah,Mobile Clinic,,TBC,570,completed,Oct-15-2018,Oct-15-2018
 BTB,Food Security,Economi,National NGOs,Palu,Mantikulore,Lasoani,POS BAZNAS LASOANI,Assessment,,Public community,,completed,Oct-18-2018,Oct-18-2018
 BTB,Health,,National NGOs,Sigi,Sigi Biromaru,Mpanau,POS SIGI BIROMARU,Medical Service,,Public community,,completed,Oct-10-2018,Oct-10-2018
 BTB,Food Security,Economi,National NGOs,Palu,Palu Barat,Lere,POS UTAMA BAZNAS,Assessment,,Public community,,completed,Oct-18-2018,Oct-18-2018
@@ -68,7 +68,7 @@ and random distribution to Bangga surrounding area",Water,general population,214
 CWS (Church World Service)/LSM Dangau,NFI/Shelter,Shelter,International NGOs,Donggala,Sirenja,Lende Tovea,,Shelter kits - tarpaulin distribution,,general population,131 HH,completed,Oct-19-2018,Oct-19-2018
 CWS (Church World Service)/LSM Dangau,WASH,Water supply,International NGOs,Sigi,Sigi Biromaru,Sidera,"Camp site of Sidera village (S 00 59.632' E 119 55.651') 
 (S 00 59.744' E 119 56.064') (S 00 59.345' E 119 56.063')",Water distribution,,general population,90 HH/504 people,ongoing,Oct-04-2018,Dec-30-2018
-CWS (Church World Service)/LSM Dangau,WASH,Water supply,International NGOs,Sigi,Dolo,Kabobona,Mesjid Al-Hidayah (S 00 Âº58.267' E 119 Âº52.886'),Water distribution,,general population,141 HH/547 people,ongoing,Oct-08-2018,Dec-30-2018
+CWS (Church World Service)/LSM Dangau,WASH,Water supply,International NGOs,Sigi,Dolo,Kabobona,Mesjid Al-Hidayah (S 00 ????58.267' E 119 ????52.886'),Water distribution,,general population,141 HH/547 people,ongoing,Oct-08-2018,Dec-30-2018
 CWS (Church World Service)/LSM Dangau,WASH,Water supply,International NGOs,Sigi,Sigi Biromaru,Pombewe,"Camp site of Jono Oge village, 
 Lapangan Pombewe 
 (S 00 58.726' E 119 55.936')",Water distribution,,general population,37 HH/117 people,ongoing,Oct-05-2018,Dec-30-2018
@@ -97,42 +97,42 @@ CWS (Church World Service)/Yayasan Inanta,NFI/Shelter,Shelter,International NGOs
 CWS (Church World Service)/Yayasan Inanta,NFI/Shelter,Shelter,International NGOs,Donggala,Balaesang Tanjung,Manimbaya,,Shelter kits - tarpaulin distribution,,general population,28 HH,completed,Oct-18-2018,Oct-18-2018
 CWS (Church World Service)/Yayasan Inanta,NFI/Shelter,Shelter,International NGOs,Donggala,Sindue Tombusabora,Tibo,,Shelter kits - tarpaulin distribution,,general population,43 HH,completed,Oct-18-2018,Oct-18-2018
 CWS (Church World Service)/Yayasan Inanta,NFI/Shelter,Shelter,International NGOs,Donggala,Balaesang Tanjung,Pomolulu,,Shelter kits - tarpaulin distribution,,general population,142 HH,completed,Oct-18-2018,Oct-18-2018
-DT,Health,Mobile Clinic,National NGOs,Donggala,Banawa Tengah,,,Mobile Clinic,,49,590,completed,Oct-16-2018,Oct-16-2018
-FKUI/RSCM,Health,Mobile Clinic,University,Palu,Palu Barat,Siranindi,RS Sis Aljufri,Mobile Clinic,,42,577,completed,Oct-15-2018,Oct-15-2018
-HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,33,569,completed,Oct-15-2018,Oct-15-2018
-HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,40,591,completed,Oct-16-2018,Oct-16-2018
-HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,28,593,completed,Oct-17-2018,Oct-17-2018
+DT,Health,Mobile Clinic,National NGOs,Donggala,Banawa Tengah,,,Mobile Clinic,,TBC,590,completed,Oct-16-2018,Oct-16-2018
+FKUI/RSCM,Health,Mobile Clinic,University,Palu,Palu Barat,Siranindi,RS Sis Aljufri,Mobile Clinic,,TBC,577,completed,Oct-15-2018,Oct-15-2018
+HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,TBC,569,completed,Oct-15-2018,Oct-15-2018
+HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,TBC,591,completed,Oct-16-2018,Oct-16-2018
+HOPE,Health,Mobile Clinic,International NGOs,Palu,Tatanga,Pengawu,Pengawu,Mobile Clinic,,TBC,593,completed,Oct-17-2018,Oct-17-2018
 JMK,WASH,Hygiene promotion,National NGOs,Sigi,Dolo Selatan,Wisolo,,Hygiene kit distribution,,Data to be followed up,660,completed,Oct-10-2018,Oct-10-2018
-JMK,WASH,Hygiene promotion,National NGOs,Sigi,Dolo Selatan,Jono,,Hygiene kit distribution,,1015,,completed,Oct-10-2018,Oct-10-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Zebra 5,Tarpaulins distribution,,29,,completed,Oct-14-2018,Oct-14-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Zebra 4,Tarpaulins distribution,,27,,completed,Oct-14-2018,Oct-14-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Lasoani,Sigi Maranata,Tarpaulins distribution,,36,,completed,Oct-14-2018,Oct-14-2018
-JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Hygiene kit distribution,,375,,completed,Oct-20-2018,Oct-20-2018
-JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Aquatabs distribution,,375,,completed,Oct-20-2018,Oct-20-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Sarongs distribution,,375,,completed,Oct-14-2018,Oct-14-2018
-JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Dampal,Dampal,Hygiene kit distribution,,1265,,completed,Oct-20-2018,Oct-20-2018
-JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Dampal,Dampal,Aquatabs distribution,,1265,,completed,Oct-20-2018,Oct-20-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Dampal,Dampal,Tarpaulins distribution,,1265,,completed,Oct-14-2018,Oct-14-2018
-JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Dampal,Dampal,Sarongs distribution,,1265,,completed,Oct-14-2018,Oct-14-2018
-JMK,WASH,Hygiene promotion,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Campaign: Global Handwashing Day 2018,,415,,completed,Oct-17-2018,Oct-17-2018
-JMK,WASH,Hygiene promotion,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Hygiene kit distribution,,415,,completed,Oct-10-2018,Oct-10-2018
-JMK,WASH,Sanitation,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Tarpaulins distribution,,415,,completed,Oct-11-2018,Oct-11-2018
-KEMENSOS-DINSOS/UNICEF,Protection,Child protection,Government,Palu,Palu Selatan,,Dinas Sosial Provinsi,"Psychosocial support activity, Child Friendly Spaces, FTR",,50,,ongoing,Oct-03-2018,Mar-30-2019
+JMK,WASH,Hygiene promotion,National NGOs,Sigi,Dolo Selatan,Jono,,Hygiene kit distribution,,TBC,1015,completed,Oct-10-2018,Oct-10-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Zebra 5,Tarpaulins distribution,,TBC,29,completed,Oct-14-2018,Oct-14-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Zebra 4,Tarpaulins distribution,,TBC,27,completed,Oct-14-2018,Oct-14-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Lasoani,Sigi Maranata,Tarpaulins distribution,,TBC,36,completed,Oct-14-2018,Oct-14-2018
+JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Hygiene kit distribution,,TBC,375,completed,Oct-20-2018,Oct-20-2018
+JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Aquatabs distribution,,TBC,375,completed,Oct-20-2018,Oct-20-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Sipi,Sigaya,Sarongs distribution,,TBC,375,completed,Oct-14-2018,Oct-14-2018
+JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Dampal,Dampal,Hygiene kit distribution,,TBC,1265,completed,Oct-20-2018,Oct-20-2018
+JMK,WASH,Hygiene promotion,National NGOs,Donggala,Sirenja,Dampal,Dampal,Aquatabs distribution,,TBC,1265,completed,Oct-20-2018,Oct-20-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Dampal,Dampal,Tarpaulins distribution,,TBC,1265,completed,Oct-14-2018,Oct-14-2018
+JMK,NFI/Shelter,Shelter,National NGOs,Donggala,Sirenja,Dampal,Dampal,Sarongs distribution,,TBC,1265,completed,Oct-14-2018,Oct-14-2018
+JMK,WASH,Hygiene promotion,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Campaign: Global Handwashing Day 2018,,TBC,415,completed,Oct-17-2018,Oct-17-2018
+JMK,WASH,Hygiene promotion,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Hygiene kit distribution,,TBC,415,completed,Oct-10-2018,Oct-10-2018
+JMK,WASH,Sanitation,National NGOs,Sigi,Sigi Biromaru,Jono Oge,Camp 3,Tarpaulins distribution,,TBC,415,completed,Oct-11-2018,Oct-11-2018
+KEMENSOS-DINSOS/UNICEF,Protection,Child protection,Government,Palu,Palu Selatan,,Dinas Sosial Provinsi,"Psychosocial support activity, Child Friendly Spaces, FTR",,TBC,50,ongoing,Oct-03-2018,Mar-30-2019
 KEMENSOS-DINSOS/UNICEF,Protection,Child protection,Government,Palu,Palu Selatan,,Dinas Sosial Provinsi,"Psychosocial support activity, Child Friendly Spaces, FTR",,children,50,ongoing,Oct-03-2018,Mar-30-2019
 MAI (w/ YKMI),WASH,WASH,National NGOs,Palu,Ulujadi,Buluri,Uentumbu,Distribution,,Households,39,completed,Oct-11-2018,Oct-11-2018
 MAI (w/ YKMI),WASH,WASH,National NGOs,Palu,Ulujadi,Buluri,Uentumbu,Construction,,Households,39,completed,Oct-14-2018,Oct-14-2018
 MAI (w/ YKMI),WASH,WASH,National NGOs,Palu,Ulujadi,Buluri,Uentumbu,Distribution,,Households,74,completed,Oct-17-2018,Oct-19-2018
-MC HOPE,Health,Mobile Clinic,International NGOs,Palu,Ulujadi,Silae,Silae,Mobile Clinic,,33,587,completed,Oct-15-2018,Oct-15-2018
-MC HOPE,Health,Mobile Clinic,International NGOs,Palu,Ulujadi,Silae,Silae,Mobile Clinic,,11,588,completed,Oct-16-2018,Oct-16-2018
+MC HOPE,Health,Mobile Clinic,International NGOs,Palu,Ulujadi,Silae,Silae,Mobile Clinic,,TBC,587,completed,Oct-15-2018,Oct-15-2018
+MC HOPE,Health,Mobile Clinic,International NGOs,Palu,Ulujadi,Silae,Silae,Mobile Clinic,,TBC,588,completed,Oct-16-2018,Oct-16-2018
 MCI,Early Recovery,In depth Assessment,International NGOs,Sigi,Sigi Biromaru,Sidera,,Indepth Assessment,,Affected Communities,,completed,Oct-11-2018,Oct-15-2018
 MCI,Early Recovery,In depth Assessment,International NGOs,Donggala,Sindue Tombusabora,Tibo,,Rapid Assessment,,Affected Communities,,completed,Oct-08-2018,Oct-08-2018
-Medis,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Sungku,"Desa sungku,",Mobile Clinic,,104,575,completed,Oct-15-2018,Oct-15-2018
-Medis,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Sungku,Desa Sungku,Mobile Clinic,,35,576,completed,Oct-15-2018,Oct-15-2018
-Multi Donor,Health,Mobile Clinic,International NGOs,Donggala,Banawa,Loli Dondo,Loli Dondo,Mobile Clinic,,74,566,completed,Oct-15-2018,Oct-15-2018
-PELKESI,Health,Mobile Clinic,National NGOs,Sigi,Tanambulava,Sibalaya Barat,Dusun Binobo dan Malakantu,Mobile Clinic,,110,571,completed,Oct-15-2018,Oct-15-2018
-PELKESI,Health,Mobile Clinic,National NGOs,Donggala,Sindue,Lero,Lero,Mobile Clinic,,16,594,completed,Oct-17-2018,Oct-17-2018
-PELKESI,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Salua,Salua,Mobile Clinic,,16,595,completed,Oct-17-2018,Oct-17-2018
-PELKESI,Health,Mobile Clinic,National NGOs,Donggala,Sindue,Lero,Lero,Mobile Clinic,,29,596,completed,Oct-17-2018,Oct-17-2018
+Medis,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Sungku,"Desa sungku,",Mobile Clinic,,TBC,575,completed,Oct-15-2018,Oct-15-2018
+Medis,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Sungku,Desa Sungku,Mobile Clinic,,TBC,576,completed,Oct-15-2018,Oct-15-2018
+Multi Donor,Health,Mobile Clinic,International NGOs,Donggala,Banawa,Loli Dondo,Loli Dondo,Mobile Clinic,,TBC,566,completed,Oct-15-2018,Oct-15-2018
+PELKESI,Health,Mobile Clinic,National NGOs,Sigi,Tanambulava,Sibalaya Barat,Dusun Binobo dan Malakantu,Mobile Clinic,,TBC,571,completed,Oct-15-2018,Oct-15-2018
+PELKESI,Health,Mobile Clinic,National NGOs,Donggala,Sindue,Lero,Lero,Mobile Clinic,,TBC,594,completed,Oct-17-2018,Oct-17-2018
+PELKESI,Health,Mobile Clinic,National NGOs,Sigi,Kulawi,Salua,Salua,Mobile Clinic,,TBC,595,completed,Oct-17-2018,Oct-17-2018
+PELKESI,Health,Mobile Clinic,National NGOs,Donggala,Sindue,Lero,Lero,Mobile Clinic,,TBC,596,completed,Oct-17-2018,Oct-17-2018
 PMI,WASH,WASH,Red Cross/Red Cresent,Sigi,Dolo,Langaleso,Langaleso,Distribution,,Households,313,ongoing,Oct-07-2018,Oct-07-2018
 PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Sigi,Dolo,Karawana,Karawana,Distribution,,Households,3,completed,Oct-08-2018,Oct-08-2018
 PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Sigi,Dolo,Karawana,Karawana,Distribution,,Households,1,completed,Oct-08-2018,Oct-08-2018
@@ -722,12 +722,12 @@ PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Sigi,Dolo,Karawana,Karawana,Distri
 PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Sigi,Dolo,Soulowe,Soulowe,Distribution,,Households,3,completed,Oct-08-2018,Oct-08-2018
 PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Sigi,Kinovaro,Balane,Balane,Distribution,,Households,100,completed,Oct-09-2018,Oct-09-2018
 PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Mantikulore,Lasoani,Kamp. Pengungsi,Distribution,,Households,313,ongoing,Oct-02-2018,Oct-02-2018
-PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Palu Timur,Lolu Selatan,Kamp. Pengungsian RRI,Distribution,,63,,ongoing,Oct-03-2018,Oct-03-2018
-PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Palu Timur,Lolu Selatan,Kamp. Pengungsi Ongka Malino,Distribution,,188,,ongoing,Oct-03-2018,Oct-03-2018
-PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Mantikulore,Tanamodindi,Jl. Maleo,Distribution,,63,,ongoing,Oct-04-2018,Oct-04-2018
-PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Mantikulore,Kawatuna,Lapangan Kawatuna,Distribution,,250,,ongoing,Oct-04-2018,Oct-04-2018
-Wahda Peduli,Health,Mobile Clinic,National NGOs,Palu,Tawaeli,Baiya,Baiya,Mobile Clinic,,8,579,completed,Oct-16-2018,Oct-16-2018
-Wahda Peduli,Health,Mobile Clinic,National NGOs,Palu,Tawaeli,Panau,Mpanau,Mobile Clinic,,33,580,completed,Oct-16-2018,Oct-16-2018
+PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Palu Timur,Lolu Selatan,Kamp. Pengungsian RRI,Distribution,,TBC,,ongoing,Oct-03-2018,Oct-03-2018
+PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Palu Timur,Lolu Selatan,Kamp. Pengungsi Ongka Malino,Distribution,,TBC,,ongoing,Oct-03-2018,Oct-03-2018
+PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Mantikulore,Tanamodindi,Jl. Maleo,Distribution,,TBC,,ongoing,Oct-04-2018,Oct-04-2018
+PMI,NFI/Shelter,Shelter,Red Cross/Red Cresent,Palu,Mantikulore,Kawatuna,Lapangan Kawatuna,Distribution,,TBC,,ongoing,Oct-04-2018,Oct-04-2018
+Wahda Peduli,Health,Mobile Clinic,National NGOs,Palu,Tawaeli,Baiya,Baiya,Mobile Clinic,,TBC,579,completed,Oct-16-2018,Oct-16-2018
+Wahda Peduli,Health,Mobile Clinic,National NGOs,Palu,Tawaeli,Panau,Mpanau,Mobile Clinic,,TBC,580,completed,Oct-16-2018,Oct-16-2018
 WVI,Education,Educatiion in Emergency,International NGOs,Sigi,Marawola,Sibedi,,"Temporary School, Teachers Training",,children,100,ongoing,Nov-01-2018,Mar-30-2019
 WVI,NFI/Shelter,NFI,International NGOs,Sigi,Marawola,Sibedi,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,household,500 HH,ongoing,Oct-01-2018,Mar-30-2019
 WVI,WASH,Water provision & Hygiene Practice,International NGOs,Sigi,Marawola,Sibedi,,Water distribution to IDPs camp,,household,100 HH,ongoing,Oct-07-2018,Mar-30-2019
@@ -873,31 +873,31 @@ WVI,NFI/Shelter,NFI,International NGOs,Parigi Moutong,Parigi Selatan,Olobaru,,"D
 WVI,WASH,Water provision & Hygiene Practice,International NGOs,Parigi Moutong,Parigi Selatan,Olobaru,,Water distribution to IDPs camp,,household,100 HH,ongoing,Oct-07-2018,Mar-30-2019
 WVI,Nutrition,Infant Young Child Feeding,International NGOs,Parigi Moutong,Parigi Selatan,Olobaru,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,children,15,ongoing,Oct-10-2018,Mar-30-2019
 WVI,Protection,Child protection,International NGOs,Parigi Moutong,Parigi Selatan,Olobaru,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,children,100,ongoing,Oct-01-2018,Mar-30-2019
-WVI,Education,Educatiion in Emergency,International NGOs,Palu,Palu Barat,Kamonji,,"Temporary School, Teachers Training",,100,,ongoing,Nov-01-2018,Mar-30-2019
-WVI,NFI/Shelter,NFI,International NGOs,Palu,Palu Barat,Kamonji,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,500 HH,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Palu Barat,Kamonji,,Water distribution to IDPs camp,,100 HH,,ongoing,Oct-07-2018,Mar-30-2019
-WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Palu Barat,Kamonji,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,15,,ongoing,Oct-10-2018,Mar-30-2019
-WVI,Protection,Child protection,International NGOs,Palu,Palu Barat,Kamonji,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,100,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,Education,Educatiion in Emergency,International NGOs,Palu,Tawaeli,Panau,,"Temporary School, Teachers Training",,100,,ongoing,Nov-01-2018,Mar-30-2019
-WVI,NFI/Shelter,NFI,International NGOs,Palu,Tawaeli,Panau,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,500 HH,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Tawaeli,Panau,,Water distribution to IDPs camp,,100 HH,,ongoing,Oct-07-2018,Mar-30-2019
-WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Tawaeli,Panau,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,15,,ongoing,Oct-10-2018,Mar-30-2019
-WVI,Protection,Child protection,International NGOs,Palu,Tawaeli,Panau,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,100,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,Education,Educatiion in Emergency,International NGOs,Palu,Ulujadi,Silae,,"Temporary School, Teachers Training",,100,,ongoing,Nov-01-2018,Mar-30-2019
-WVI,NFI/Shelter,NFI,International NGOs,Palu,Ulujadi,Silae,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,500 HH,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Ulujadi,Silae,,Water distribution to IDPs camp,,100 HH,,ongoing,Oct-07-2018,Mar-30-2019
-WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Ulujadi,Silae,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,15,,ongoing,Oct-10-2018,Mar-30-2019
-WVI,Protection,Child protection,International NGOs,Palu,Ulujadi,Silae,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,100,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,Education,Educatiion in Emergency,International NGOs,Palu,Palu Utara,Taipa,,"Temporary School, Teachers Training",,100,,ongoing,Nov-01-2018,Mar-30-2019
-WVI,NFI/Shelter,NFI,International NGOs,Palu,Palu Utara,Taipa,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,500 HH,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Palu Utara,Taipa,,Water distribution to IDPs camp,,100 HH,,ongoing,Oct-07-2018,Mar-30-2019
-WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Palu Utara,Taipa,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,15,,ongoing,Oct-10-2018,Mar-30-2019
-WVI,Protection,Child protection,International NGOs,Palu,Palu Utara,Taipa,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,100,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,Education,Educatiion in Emergency,International NGOs,Parigi Moutong,Parigi,Maesa,,"Temporary School, Teachers Training",,100,,ongoing,Nov-01-2018,Mar-30-2019
-WVI,NFI/Shelter,NFI,International NGOs,Parigi Moutong,Parigi,Maesa,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,500 HH,,ongoing,Oct-01-2018,Mar-30-2019
-WVI,WASH,Water provision & Hygiene Practice,International NGOs,Parigi Moutong,Parigi,Maesa,,Water distribution to IDPs camp,,100 HH,,ongoing,Oct-07-2018,Mar-30-2019
-WVI,Nutrition,Infant Young Child Feeding,International NGOs,Parigi Moutong,Parigi,Maesa,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,15,,ongoing,Oct-10-2018,Mar-30-2019
-WVI,Protection,Child protection,International NGOs,Parigi Moutong,Parigi,Maesa,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,100,,ongoing,Oct-01-2018,Mar-30-2019
+WVI,Education,Educatiion in Emergency,International NGOs,Palu,Palu Barat,Kamonji,,"Temporary School, Teachers Training",,TBC,,ongoing,Nov-01-2018,Mar-30-2019
+WVI,NFI/Shelter,NFI,International NGOs,Palu,Palu Barat,Kamonji,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,TBC,500 HH,ongoing,Oct-01-2018,Mar-30-2019
+WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Palu Barat,Kamonji,,Water distribution to IDPs camp,,TBC,100 HH,ongoing,Oct-07-2018,Mar-30-2019
+WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Palu Barat,Kamonji,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,TBC,,ongoing,Oct-10-2018,Mar-30-2019
+WVI,Protection,Child protection,International NGOs,Palu,Palu Barat,Kamonji,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,TBC,,ongoing,Oct-01-2018,Mar-30-2019
+WVI,Education,Educatiion in Emergency,International NGOs,Palu,Tawaeli,Panau,,"Temporary School, Teachers Training",,TBC,,ongoing,Nov-01-2018,Mar-30-2019
+WVI,NFI/Shelter,NFI,International NGOs,Palu,Tawaeli,Panau,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,TBC,500 HH,ongoing,Oct-01-2018,Mar-30-2019
+WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Tawaeli,Panau,,Water distribution to IDPs camp,,TBC,100 HH,ongoing,Oct-07-2018,Mar-30-2019
+WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Tawaeli,Panau,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,TBC,,ongoing,Oct-10-2018,Mar-30-2019
+WVI,Protection,Child protection,International NGOs,Palu,Tawaeli,Panau,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,TBC,,ongoing,Oct-01-2018,Mar-30-2019
+WVI,Education,Educatiion in Emergency,International NGOs,Palu,Ulujadi,Silae,,"Temporary School, Teachers Training",,TBC,,ongoing,Nov-01-2018,Mar-30-2019
+WVI,NFI/Shelter,NFI,International NGOs,Palu,Ulujadi,Silae,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,TBC,500 HH,ongoing,Oct-01-2018,Mar-30-2019
+WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Ulujadi,Silae,,Water distribution to IDPs camp,,TBC,100 HH,ongoing,Oct-07-2018,Mar-30-2019
+WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Ulujadi,Silae,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,TBC,,ongoing,Oct-10-2018,Mar-30-2019
+WVI,Protection,Child protection,International NGOs,Palu,Ulujadi,Silae,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,TBC,,ongoing,Oct-01-2018,Mar-30-2019
+WVI,Education,Educatiion in Emergency,International NGOs,Palu,Palu Utara,Taipa,,"Temporary School, Teachers Training",,TBC,,ongoing,Nov-01-2018,Mar-30-2019
+WVI,NFI/Shelter,NFI,International NGOs,Palu,Palu Utara,Taipa,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,TBC,500 HH,ongoing,Oct-01-2018,Mar-30-2019
+WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Palu Utara,Taipa,,Water distribution to IDPs camp,,TBC,100 HH,ongoing,Oct-07-2018,Mar-30-2019
+WVI,Nutrition,Infant Young Child Feeding,International NGOs,Palu,Palu Utara,Taipa,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,TBC,,ongoing,Oct-10-2018,Mar-30-2019
+WVI,Protection,Child protection,International NGOs,Palu,Palu Utara,Taipa,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,TBC,,ongoing,Oct-01-2018,Mar-30-2019
+WVI,Education,Educatiion in Emergency,International NGOs,Parigi Moutong,Parigi,Maesa,,"Temporary School, Teachers Training",,TBC,,ongoing,Nov-01-2018,Mar-30-2019
+WVI,NFI/Shelter,NFI,International NGOs,Parigi Moutong,Parigi,Maesa,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,TBC,500 HH,ongoing,Oct-01-2018,Mar-30-2019
+WVI,WASH,Water provision & Hygiene Practice,International NGOs,Parigi Moutong,Parigi,Maesa,,Water distribution to IDPs camp,,TBC,100 HH,ongoing,Oct-07-2018,Mar-30-2019
+WVI,Nutrition,Infant Young Child Feeding,International NGOs,Parigi Moutong,Parigi,Maesa,,"Activate public kitchen of IYCF in Palu, Sigi,  Donggala and Parigi Moutong in collaboration wth Social Department of Central Sulawesi province",,TBC,,ongoing,Oct-10-2018,Mar-30-2019
+WVI,Protection,Child protection,International NGOs,Parigi Moutong,Parigi,Maesa,,"Psychosocial support activity, Child Friendly Spaces, Child Protection Minimum Standard Training ",,TBC,,ongoing,Oct-01-2018,Mar-30-2019
 WVI,Education,Educatiion in Emergency,International NGOs,Palu,Palu Barat,Kamonji,,"Temporary School, Teachers Training",,children,100,ongoing,Nov-01-2018,Mar-30-2019
 WVI,NFI/Shelter,NFI,International NGOs,Palu,Palu Barat,Kamonji,,"Distribution of Family Kits, Children Kit, Shelter Kit, Hygiene Kit, food package",,household,500 HH,ongoing,Oct-01-2018,Mar-30-2019
 WVI,WASH,Water provision & Hygiene Practice,International NGOs,Palu,Palu Barat,Kamonji,,Water distribution to IDPs camp,,household,100 HH,ongoing,Oct-07-2018,Mar-30-2019
@@ -927,13 +927,13 @@ Yayasan Fondasi Hidup (FH Indonesia),Food Security,Livelihood,National NGOs,Sigi
 Yayasan Fondasi Hidup (FH Indonesia),Food Security,Livelihood,National NGOs,Sigi,Sigi Biromaru,Pombewe,Pos HGU (pengungsi desa Jono Oge),BNT/CBA,,Family,200,planned,Feb-01-2019,Apr-30-2019
 Yayasan Fondasi Hidup (FH Indonesia) & MDS,NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Dusun 2,Pembangunan hunian sementara,,Family,100,planned,Nov-01-2018,Mar-31-2019
 Yayasan Fondasi Hidup (FH Indonesia) & Pelkesi,Health,Temporary health clinic,National NGOs,Donggala,Balaesang Tanjung,Walandano,Dusun 2,Penyediaan temporary health klinik dan batuan tenaga medis,,Family,400,planned,Nov-01-2018,Jan-31-2019
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Palu Barat,Balaroa,Posko Tawanjuka,Distribution of shelter kits,,147,,completed,Oct-11-2018,Oct-11-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Palu Barat,Balaroa,Posko Tawanjuka,Distribution of shelter kits,,TBC,,completed,Oct-11-2018,Oct-11-2018
 Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tawaeli,Panau,Posko RW06,Distribution of shelter kits,,TBC,,planned,Oct-17-2018,Oct-17-2018
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tawaeli,Panau,Posko RW06,Distribution of shelter kits,,135,,completed,Oct-14-2018,Oct-14-2018
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Langaleso,Posko Langaleso,Distribution of shelter kits,,77,,completed,Oct-11-2018,Oct-11-2018
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tawaeli,Panau,Posko RW07,Distribution of shelter kits,,468,,completed,Oct-12-2018,Oct-12-2018
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tatanga,Duyu,Posko Bantaya,Distribution of shelter kits,,901,,completed,Oct-12-2018,Oct-12-2018
-Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution of shelter kits,,262,,completed,Oct-13-2018,Oct-13-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tawaeli,Panau,Posko RW06,Distribution of shelter kits,,TBC,,completed,Oct-14-2018,Oct-14-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Langaleso,Posko Langaleso,Distribution of shelter kits,,TBC,,completed,Oct-11-2018,Oct-11-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tawaeli,Panau,Posko RW07,Distribution of shelter kits,,TBC,,completed,Oct-12-2018,Oct-12-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Tatanga,Duyu,Posko Bantaya,Distribution of shelter kits,,TBC,,completed,Oct-12-2018,Oct-12-2018
+Yayasan Plan International Indonesia (YPII),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution of shelter kits,,TBC,,completed,Oct-13-2018,Oct-13-2018
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Donggala,Balaesang,Lombonga,Kamp Lomboga,PFA and CFS,,Children,50,completed,Oct-08-2018,Oct-08-2018
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Donggala,Banawa,Boya,Boya,PFA and CFS,,Children,62,completed,Oct-08-2018,Oct-08-2018
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,PFA and CFS,,Children,44,completed,Oct-04-2018,Oct-04-2018
@@ -941,8 +941,8 @@ Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Pal
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Utara,Mamboro,Posko pengungsi mamboro,PFA and CFS,,Children,42,completed,Oct-07-2018,Oct-07-2018
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Bandara Muatiara - cendrawasih,PFA and CFS,,Children,47,completed,Oct-09-2018,Oct-09-2018
 Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Petobo,Posko 1 Petobo,PFA and CFS,,Children,41,completed,Oct-07-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Mantikulore,Tanamodindi,Lapangan Vatulemo,PFA and CFS,,53,,completed,Oct-06-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,PFA and CFS,,45,,completed,Oct-09-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Mantikulore,Tanamodindi,Lapangan Vatulemo,PFA and CFS,,TBC,,completed,Oct-06-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,PFA and CFS,,TBC,,completed,Oct-09-2018,Oct-09-2018
 Yayasan Sayangi Tunas Cilik (YSTC),WASH,WASH,National NGOs,Donggala,Balaesang,Lombonga,Kamp Lomboga,Distribution,,Children,150,completed,Oct-08-2018,Oct-08-2018
 Yayasan Sayangi Tunas Cilik (YSTC),WASH,WASH,National NGOs,Donggala,Banawa,Boya,Boya,Distribution,,Children,44,completed,Oct-08-2018,Oct-08-2018
 Yayasan Sayangi Tunas Cilik (YSTC),WASH,WASH,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,Children,12,completed,Oct-04-2018,Oct-04-2018
@@ -996,91 +996,91 @@ Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawo
 Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Tanambulava,Sibalaya Selatan,Kantor Desa Sibaya Selatan,Distribution,,Households,67,completed,Oct-12-2018,Oct-12-2018
 Yayasan Sayangi Tunas Cilik (YSTC),WASH,WASH,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,Individuals,1679,completed,Oct-13-2018,Oct-13-2018
 Yayasan Sayangi Tunas Cilik (YSTC),WASH,WASH,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Water Tank,,Children,87,completed,Oct-13-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Donggala,Sindue,Jono Oge,Posko Ponbewe Desa Jono Oge,"PFA & PSS,  CFS activities (Set up CFS)",,46,655,ongoing,Oct-16-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Lero,Lapangan Lero Induk,"PFA & PSS,  CFS activities (Set up CFS)",,81,656,ongoing,Oct-18-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Kuburan Cina Boya,"PFA & PSS,  CFS activities (Set up CFS)",,37,657,ongoing,Oct-16-2018,Oct-04-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Lapangan Koramil,"PFA & PSS,  CFS activities (Set up CFS)",,27,658,ongoing,Oct-18-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Lapangan Koramil,"PFA & PSS,  CFS activities (Set up CFS)",,29,659,ongoing,Oct-17-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Utara,Birobulli Selatan,Posko mess AU,"PFA & PSS,  CFS activities (Set up CFS)",,,660,ongoing,Oct-19-2018,Oct-04-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Tatanga,Mamboro,Posko Mamboro,"PFA & PSS,  CFS activities (Set up CFS)",,51,661,ongoing,Oct-17-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Palu,Posko Petobo,"PFA & PSS,  CFS activities (Set up CFS)",,83,663,ongoing,Oct-16-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Sigi,Tanambulava,Petobo,Posko Petobo,"PFA & PSS,  CFS activities (Set up CFS)",,19,664,ongoing,Oct-17-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Utara,Bandara Muatiara - cendrawasih,Distribution,,6,665,completed,Oct-07-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,2,666,completed,Oct-04-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Besusu,Cendrawasih,Distribution,,2,667,completed,Oct-05-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Donggala Kodi,Posko Donggala Kodi,Distribution,,38,668,completed,Oct-09-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution,,95,669,completed,Oct-09-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,136,670,completed,Oct-09-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Baliase Kampung,Distribution,,41,671,completed,Oct-06-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,BTN Baliase,Distribution,,46,672,completed,Oct-06-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Desa Baliase - Kab. Sigi,Distribution,,74,673,completed,Oct-05-2018,Oct-10-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo Barat,Kaleke,Posko Kaleke,Distribution,,78,674,completed,Oct-09-2018,Oct-10-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Maku,Posko Maku,Distribution,,133,675,completed,Oct-09-2018,Oct-12-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,110,676,completed,Oct-13-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Indivudual beneficiaries in Vatulemo,Distribution,,1,677,completed,Oct-13-2018,Oct-04-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,112,678,completed,Oct-10-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Sibedi,Distribution in Desa Sibedi,Distribution,,26,679,completed,Oct-10-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Tanambulava,Sibalaya Selatan,Kantor Desa Sibaya Selatan,Distribution,,67,680,completed,Oct-12-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,291,681,completed,Oct-19-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,287,682,completed,Oct-19-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,130,683,completed,Oct-16-2018,Oct-06-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,67,684,completed,Oct-19-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,100,685,completed,Oct-19-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,50,686,completed,Oct-19-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,136,687,completed,Oct-16-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Buluri,Posko RT 1 dan RW 1,Distribution,,70,688,completed,Oct-17-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang,Lombonga,Kamp Lomboga,Distribution,,150,689,completed,Oct-08-2018,Oct-10-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Banawa,Boya,Boya,Distribution,,44,690,completed,Oct-08-2018,Oct-10-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,12,691,completed,Oct-04-2018,Oct-12-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,53,692,completed,Oct-05-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,Distribution,,44,693,completed,Oct-07-2018,Oct-10-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Timur,Besusu,Posko Makorem,Distribution,,11,694,completed,Oct-04-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Utara,Bandara Muatiara - cendrawasih,Distribution,,88,706,completed,Oct-07-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Timur,Besusu,Posko Makorem,Distribution,,11,707,completed,Oct-04-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,19,708,completed,Oct-04-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,45,709,completed,Oct-05-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,Distribution,,110,710,completed,Oct-07-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Donggala Kodi,Posko Donggala Kodi,Distribution,,38,711,completed,Oct-09-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution,,95,712,completed,Oct-09-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,136,713,completed,Oct-09-2018,Oct-17-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Baliase Kampung,Distribution,,41,714,completed,Oct-06-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,BTN Baliase,Distribution,,46,715,completed,Oct-06-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Desa Baliase - Kab. Sigi,Distribution,,74,716,completed,Oct-05-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo Barat,Kaleke,Posko Kaleke,Distribution,,78,717,completed,Oct-09-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Maku,Posko Maku,Distribution,,133,718,completed,Oct-09-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,384,719,completed,Oct-13-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Indivudual beneficiaries in Vatulemo,Distribution,,2,720,completed,Oct-13-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,112,721,completed,Oct-10-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Sibedi,Distribution in Desa Sibedi,Distribution,,26,722,completed,Oct-10-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Tanambulava,Sibalaya Selatan,Kantor Desa Sibaya Selatan,Distribution,,67,723,completed,Oct-12-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,1679,724,completed,Oct-13-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),WASH,Water,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Water Tank,,87,726,completed,Oct-13-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,166,727,completed,Oct-16-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,67,728,completed,Oct-19-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,100,729,completed,Oct-19-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,50,730,completed,Oct-19-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,136,731,completed,Oct-16-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,291,732,completed,Oct-19-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,287,733,completed,Oct-19-2018,Oct-17-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,166,734,completed,Oct-16-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,67,735,completed,Oct-19-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,100,736,completed,Oct-19-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,50,737,completed,Oct-19-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,136,738,completed,Oct-16-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,291,739,completed,Oct-19-2018,Oct-19-2018
-Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,287,740,completed,Oct-19-2018,Oct-16-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Set up TLS,,,747,ongoing,Oct-13-2018,Oct-13-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Palu,Mantikulore,Lasoani,Kel. Lasoani. Kec. Mantikulore Kota Palu,TLS,,47,748,ongoing,Oct-18-2018,Oct-12-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Lolu,"SD Inpres Lalu Jl. Lasoso Desa Lolu, Kec. Sigi Biro Maru Kab. Sigi",TLS,,17,749,ongoing,Oct-18-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Sidera,"Desa Sidera, Kec. Sigi Biro Maru Kab. Sigi",TLS,,17,750,ongoing,Oct-18-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Sidera,SDN Karavan Desa Sidera Jl. Poros Palu â€“Palolo,TLS,,36,751,ongoing,Oct-18-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Soulawe,Desa Soulowe Kec. Sigi Biro Maru Kab. Sigi,TLS,,41,752,ongoing,Oct-18-2018,Oct-08-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Palu,Palu Timur,Poboya,SDN Paboya,TLS,,155,753,ongoing,Oct-15-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,291,754,completed,Oct-19-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,287,755,completed,Oct-19-2018,Oct-04-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,150,756,completed,Oct-16-2018,Oct-04-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,67,757,completed,Oct-19-2018,Oct-05-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,100,758,completed,Oct-19-2018,Oct-07-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,50,759,completed,Oct-19-2018,Oct-09-2018
-Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,136,760,completed,Oct-16-2018,Oct-09-2018
-Baznas,Health,Mobile Clinic,National NGOs,Donggala,Tanantovea,,,Mobile Clinic,,,,completed,Oct-7-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Donggala,Sindue,Jono Oge,Posko Ponbewe Desa Jono Oge,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,655,ongoing,Oct-16-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Lero,Lapangan Lero Induk,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,656,ongoing,Oct-18-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Kuburan Cina Boya,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,657,ongoing,Oct-16-2018,Oct-04-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Lapangan Koramil,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,658,ongoing,Oct-18-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Birobuli Utara,Posko Lapangan Koramil,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,659,ongoing,Oct-17-2018,Oct-07-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Utara,Birobulli Selatan,Posko mess AU,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,660,ongoing,Oct-19-2018,Oct-04-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Tatanga,Mamboro,Posko Mamboro,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,661,ongoing,Oct-17-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Palu,Palu Selatan,Palu,Posko Petobo,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,663,ongoing,Oct-16-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Protection,Child Protection,National NGOs,Sigi,Tanambulava,Petobo,Posko Petobo,"PFA & PSS,  CFS activities (Set up CFS)",,TBC,664,ongoing,Oct-17-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Utara,Bandara Muatiara - cendrawasih,Distribution,,TBC,665,completed,Oct-07-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,TBC,666,completed,Oct-04-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Besusu,Cendrawasih,Distribution,,TBC,667,completed,Oct-05-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Donggala Kodi,Posko Donggala Kodi,Distribution,,TBC,668,completed,Oct-09-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution,,TBC,669,completed,Oct-09-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,TBC,670,completed,Oct-09-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Baliase Kampung,Distribution,,TBC,671,completed,Oct-06-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,BTN Baliase,Distribution,,TBC,672,completed,Oct-06-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Desa Baliase - Kab. Sigi,Distribution,,TBC,673,completed,Oct-05-2018,Oct-10-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo Barat,Kaleke,Posko Kaleke,Distribution,,TBC,674,completed,Oct-09-2018,Oct-10-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Maku,Posko Maku,Distribution,,TBC,675,completed,Oct-09-2018,Oct-12-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,TBC,676,completed,Oct-13-2018,Oct-07-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Indivudual beneficiaries in Vatulemo,Distribution,,TBC,677,completed,Oct-13-2018,Oct-04-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,TBC,678,completed,Oct-10-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Sibedi,Distribution in Desa Sibedi,Distribution,,TBC,679,completed,Oct-10-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Tanambulava,Sibalaya Selatan,Kantor Desa Sibaya Selatan,Distribution,,TBC,680,completed,Oct-12-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,TBC,681,completed,Oct-19-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,TBC,682,completed,Oct-19-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,TBC,683,completed,Oct-16-2018,Oct-06-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,TBC,684,completed,Oct-19-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,TBC,685,completed,Oct-19-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,TBC,686,completed,Oct-19-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,TBC,687,completed,Oct-16-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Buluri,Posko RT 1 dan RW 1,Distribution,,TBC,688,completed,Oct-17-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang,Lombonga,Kamp Lomboga,Distribution,,TBC,689,completed,Oct-08-2018,Oct-10-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Banawa,Boya,Boya,Distribution,,TBC,690,completed,Oct-08-2018,Oct-10-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,TBC,691,completed,Oct-04-2018,Oct-12-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,TBC,692,completed,Oct-05-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,Distribution,,TBC,693,completed,Oct-07-2018,Oct-10-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Timur,Besusu,Posko Makorem,Distribution,,TBC,694,completed,Oct-04-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Utara,Bandara Muatiara - cendrawasih,Distribution,,TBC,706,completed,Oct-07-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Timur,Besusu,Posko Makorem,Distribution,,TBC,707,completed,Oct-04-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,TBC,708,completed,Oct-04-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Posko Dinas sosial,Distribution,,TBC,709,completed,Oct-05-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobulli Selatan,Lap. Komplek TNI AU - Jl Dewi Sartika,Distribution,,TBC,710,completed,Oct-07-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Donggala Kodi,Posko Donggala Kodi,Distribution,,TBC,711,completed,Oct-09-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Ulujadi,Kabonena,Posko Kabonena,Distribution,,TBC,712,completed,Oct-09-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,TBC,713,completed,Oct-09-2018,Oct-17-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Baliase Kampung,Distribution,,TBC,714,completed,Oct-06-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,BTN Baliase,Distribution,,TBC,715,completed,Oct-06-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Baliase,Desa Baliase - Kab. Sigi,Distribution,,TBC,716,completed,Oct-05-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo Barat,Kaleke,Posko Kaleke,Distribution,,TBC,717,completed,Oct-09-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Dolo,Maku,Posko Maku,Distribution,,TBC,718,completed,Oct-09-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,TBC,719,completed,Oct-13-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Mantikulore,Tanamodindi,Indivudual beneficiaries in Vatulemo,Distribution,,TBC,720,completed,Oct-13-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Posko Mamboro,Distribution,,TBC,721,completed,Oct-10-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Marawola,Sibedi,Distribution in Desa Sibedi,Distribution,,TBC,722,completed,Oct-10-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Sigi,Tanambulava,Sibalaya Selatan,Kantor Desa Sibaya Selatan,Distribution,,TBC,723,completed,Oct-12-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Distribution,,TBC,724,completed,Oct-13-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),WASH,Water,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Water Tank,,TBC,726,completed,Oct-13-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,TBC,727,completed,Oct-16-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,TBC,728,completed,Oct-19-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,TBC,729,completed,Oct-19-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,TBC,730,completed,Oct-19-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,TBC,731,completed,Oct-16-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,TBC,732,completed,Oct-19-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,TBC,733,completed,Oct-19-2018,Oct-17-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,TBC,734,completed,Oct-16-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,TBC,735,completed,Oct-19-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,TBC,736,completed,Oct-19-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,TBC,737,completed,Oct-19-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,TBC,738,completed,Oct-16-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,TBC,739,completed,Oct-19-2018,Oct-19-2018
+Yayasan Sayangi Tunas Cilik (YSTC),NFI/Shelter,Shelter,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,TBC,740,completed,Oct-19-2018,Oct-16-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Donggala,Sindue,Lore Tatari,Posko SMP Lero Tatari,Set up TLS,,TBC,747,ongoing,Oct-13-2018,Oct-13-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Palu,Mantikulore,Lasoani,Kel. Lasoani. Kec. Mantikulore Kota Palu,TLS,,TBC,748,ongoing,Oct-18-2018,Oct-12-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Lolu,"SD Inpres Lalu Jl. Lasoso Desa Lolu, Kec. Sigi Biro Maru Kab. Sigi",TLS,,TBC,749,ongoing,Oct-18-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Sidera,"Desa Sidera, Kec. Sigi Biro Maru Kab. Sigi",TLS,,TBC,750,ongoing,Oct-18-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Sidera,SDN Karavan Desa Sidera Jl. Poros Palu ????????Palolo,TLS,,TBC,751,ongoing,Oct-18-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Sigi,Sigi Biromaru,Soulawe,Desa Soulowe Kec. Sigi Biro Maru Kab. Sigi,TLS,,TBC,752,ongoing,Oct-18-2018,Oct-08-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Education,Education,National NGOs,Palu,Palu Timur,Poboya,SDN Paboya,TLS,,TBC,753,ongoing,Oct-15-2018,Oct-07-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Balaesang Tanjung,Manimbaya,Posko Manimbaya,Distribution,,TBC,754,completed,Oct-19-2018,Oct-07-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Balaesang Tanjung,Walandano,Posko Walandano,Distribution,,TBC,755,completed,Oct-19-2018,Oct-04-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Donggala,Sindue,Lero,Lapangan Lero Induk,Distribution,,TBC,756,completed,Oct-16-2018,Oct-04-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Selatan,Birobuli Utara,Birobuli Utara,Distribution,,TBC,757,completed,Oct-19-2018,Oct-05-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,KAYUMALUE ngapa,Posko Kayumalue Ngapa,Distribution,,TBC,758,completed,Oct-19-2018,Oct-07-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,KAYUMALUE PAJEKO,Posko  Kayumalue Pajaleko,Distribution,,TBC,759,completed,Oct-19-2018,Oct-09-2018
+Yayasan Sayangi Tunas Cilik (YSTC),Health,Health,National NGOs,Palu,Palu Utara,Mamboro,Mamboro Perikanan,Distribution,,TBC,760,completed,Oct-16-2018,Oct-09-2018
+Baznas,Health,Mobile Clinic,National NGOs,Donggala,Tanantovea,,,Mobile Clinic,,TBC,,completed,Oct-7-2018,Oct-09-2018
