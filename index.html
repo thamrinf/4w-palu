@@ -222,11 +222,11 @@
 
 				// get color depending on population density value
 				function getColor(d) {
-					return 	d > 50  ? '#E31A1C' :
-							d > 20  ? '#FC4E2A' :
-							d > 10  ? '#FD8D3C' :
-							d > 5   ? '#FEB24C' :
-							d > 1   ? '#FED976' :
+					return 	d > 50  ? '#157A72' :
+							d > 20  ? '#1B9D93' :
+							d > 10  ? '#20BFB3' :
+							d > 5   ? '#48CAC0' :
+							d > 1   ? '#85DCD5' :
 										'transparent';
 				}
 
@@ -236,7 +236,7 @@
 						opacity: 1,
 						color: 'white',
 						dashArray: '3',
-						fillOpacity: 0.5,
+						fillOpacity: 0.7,
 						fillColor: getColor(locationCount[feature.properties.KECAMATAN]) 
 					};
 				}
@@ -332,7 +332,7 @@
 				  	legend: 'none',
 			        pieSliceText: 'label',
 			        pieStartAngle: 100,
-			        colors: ['#003E15', '#037D45', '#64A877', '#BAD7BD', '#EBF5EC'],
+			        colors: ['#157A72', '#1B9D93', '#20BFB3', '#48CAC0', '#85DCD5'],
 			        chartArea:{
 			        	left:0,
 			        	top:10,
@@ -371,7 +371,7 @@
 				  	legend: 'none',
 			        pieSliceText: 'label',
 			        pieStartAngle: 100,
-			        colors: ['#037D45', '#64A877', '#BAD7BD'],
+			        colors: ['#20BFB3', '#1B9D93', '#85DCD5'],
 			        chartArea:{
 			        	left:0,
 			        	top:10,
@@ -405,7 +405,7 @@
 				      	  data.sort({column:1, desc: true});
 
 				      var options = {
-				      	colors:['#92B560'],
+				      	colors:['#20bfb3'],
 				      	height:350,
 				        chartArea: {width: '85%',top:5,right:3 ,bottom:40},
 				        legend: 'none',
