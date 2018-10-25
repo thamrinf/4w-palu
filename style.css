@@ -168,6 +168,19 @@ div.dataTables_wrapper div.dataTables_filter label {
     opacity: 0.7;
 }
 
+.button {
+    background-color: #20BFB3;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: green;
+
 
 @media only screen and (max-width: 500px) {
     .hidewhenmobile {
