@@ -24,10 +24,28 @@
    integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
    crossorigin=""/>
 
+   <style>
+   	#loadinggif{
+	  position: fixed;
+	  z-index: 9000;
+	  top: 0;
+	  left: 0;
+	  width: 100vw;
+	  height: 100vh;
+	  background: rgba(0,0,0,.4);
+	  text-align: center;
+	  padding-top: 45vh;
+	  display: none;
+	}
+	#loadinggif img{
+		width: 50px;
+	}
+   </style>
   </head>
 
   <body>
 
+  	<div id="loadinggif"><img src="http://fr.ethicon.com/sites/all/themes/ethicon/img/ajax-loader.gif"></div>
 
   	<!-- HEADER -->
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
@@ -195,6 +213,7 @@
     			orgtotal = 0,
     			periodselect = 0,
     			zero = 0;
+    			regionselect = 0;
 
 
 			var geojson;
@@ -542,24 +561,35 @@
 	    	$('#regionselect').on('change',function(){
 	    		var val = $(this).val();
 	    		let select = val.replace('-',' ');
-	    		if(val == 0){
-	    			redrawvis(val);
+	    		regionselect = select;
+	    		$('#loadinggif').show();
+	    		setTimeout(function(){
+	    			if(val == 0){
+		    			redrawvis(val);
+		    		}else{
+		    			redrawvis(select);
 
-	    		}else{
-	    			redrawvis(select);
-
-	    		}
+		    		}
+	    			$('#loadinggif').hide();
+	    		},500)
 	    	})
 
 	    	$('#periodselect').on('change',function(){
+	    		$('#loadinggif').show();
 	    		var val = $(this).val();
-	    		redrawvisbasedonperiod(val);
-		    	periodselect = val;
-
+	    		periodselect = val;
+	    		setTimeout(function(){
+	    			redrawvisbasedonperiod(periodselect);
+	    			$('#loadinggif').hide();
+	    		},500)
 	    	})
 
 	    	$('#resetall').on('click',function(){
-	    		redrawvisbasedonperiod(0)
+	    		$('#loadinggif').show();
+	    		setTimeout(function(){
+	    			redrawvisbasedonperiod(0)
+	    			$('#loadinggif').hide();
+	    		},500)
 	    	})
 
 	    	function redrawvisbasedonperiod(theperiod){
@@ -653,6 +683,7 @@
 	    	}
 
 	    	function redrawvis(namakecamatan){
+	    		$('#loadinggif').show();
 	    		map.removeLayer(geojson);
 	    		$('.info').remove();
 
@@ -761,191 +792,220 @@
 	    		$('#val3').html(val3);
 	    		$('#val2').html(val2);
 	    		$('#val1').html(orgtotal.length);
+	    		$('#loadinggif').hide();
 	    	}
 
 	    	function redrawbasestat(stat){
-	    		map.removeLayer(geojson);
-	    		$('.info').remove();
-	    		
-	    		organisationCount = [];
-    			datatblnew = [];
-    			locationCount = [];
-    			orgtotal=[];
-    			sectorCount=[];
+	    		$('#loadinggif').show();
+	    		setTimeout(function(){
+	    			run();
+	    			$('#loadinggif').hide();
+	    		},500)
 
-	    		thedata.forEach(function(d){
-	    			if(d['Status'].toUpperCase() == stat){
-	    				datatblnew.push(d);
-	    				let tempat = d['Sub Dstrict'].toUpperCase();
-		    			if(locationCount[tempat]){
-		    				locationCount[tempat] += 1;
-		    			}else{
-		    				locationCount[tempat] = 1;
-		    				let select = tempat.replace(' ','-');
-		    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
+	    		function run(){
+	    			map.removeLayer(geojson);
+		    		$('.info').remove();
+		    		
+		    		organisationCount = [];
+	    			datatblnew = [];
+	    			locationCount = [];
+	    			orgtotal=[];
+	    			sectorCount=[];
+
+	    			console.log(periodselect);
+	    			console.log(regionselect);
+
+		    		thedata.forEach(function(d){
+		    			if( d['Sub Dstrict'].toUpperCase() == regionselect){
+		    				console.log(d['Sub Dstrict'].toUpperCase())
 		    			}
+		    			if(d['Status'].toUpperCase() == stat && d['Reporting period'] == periodselect && (regionselect == 0 || regionselect == d['Sub Dstrict'].toUpperCase()) ){
+		    				datatblnew.push(d);
+		    				let tempat = d['Sub Dstrict'].toUpperCase();
+			    			if(locationCount[tempat]){
+			    				locationCount[tempat] += 1;
+			    			}else{
+			    				locationCount[tempat] = 1;
+			    				let select = tempat.replace(' ','-');
+			    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
+			    			}
 
-		    			let orgtype = d['Org Type'].toUpperCase();
-		    			if(organisationCount[orgtype]){
-		    				organisationCount[orgtype] += 1;
-		    			}else{
-		    				organisationCount[orgtype] = 1;
+			    			let orgtype = d['Org Type'].toUpperCase();
+			    			if(organisationCount[orgtype]){
+			    				organisationCount[orgtype] += 1;
+			    			}else{
+			    				organisationCount[orgtype] = 1;
+			    			}
+
+			    			let org=d['Implementing Agency'];
+			    			let cek = $.inArray( org, orgtotal ); 
+			    			if(cek == -1){
+			    				orgtotal.push(org);
+			    			}
+
+			    			let sectortype = d['Sector/Cluster'].toUpperCase();
+			    			if(sectorCount[sectortype]){
+			    				sectorCount[sectortype] += 1;
+			    			}else{
+			    				sectorCount[sectortype] = 1;
+			    			}
 		    			}
+		    		})
 
-		    			let org=d['Implementing Agency'];
-		    			let cek = $.inArray( org, orgtotal ); 
-		    			if(cek == -1){
-		    				orgtotal.push(org);
-		    			}
+		    		drawregiondiv();
+		    		f_drawPieOrg();
+		    		f_drawDataTable(datatblnew);
+		    		f_drawBarSect();
 
-		    			let sectortype = d['Sector/Cluster'].toUpperCase();
-		    			if(sectorCount[sectortype]){
-		    				sectorCount[sectortype] += 1;
-		    			}else{
-		    				sectorCount[sectortype] = 1;
-		    			}
-	    			}
-	    		})
-
-	    		drawregiondiv();
-	    		f_drawPieOrg();
-	    		f_drawDataTable(datatblnew);
-	    		f_drawBarSect();
-
-	    		let val3 = 0;
-	    		let val2 = 0;
-	    		for(x in locationCount){
-	    			val3++;
-	    			val2+=locationCount[x];
+		    		let val3 = 0;
+		    		let val2 = 0;
+		    		for(x in locationCount){
+		    			val3++;
+		    			val2+=locationCount[x];
+		    		}
+		    		$('#val3').html(val3);
+		    		$('#val2').html(val2);
+		    		$('#val1').html(orgtotal.length);
 	    		}
-	    		$('#val3').html(val3);
-	    		$('#val2').html(val2);
-	    		$('#val1').html(orgtotal.length);
 	    	}
 
 	    	function redrawbaseorg(org){
-	    		map.removeLayer(geojson);
-	    		$('.info').remove();
-	    		
-    			datatblnew = [];
-    			locationCount = [];
-    			orgtotal=[];
-    			sectorCount=[];
-    			statusCount = [];
+	    		$('#loadinggif').show();
+	    		setTimeout(function(){
+	    			run();
+	    			$('#loadinggif').hide();
+	    		},500)
+	    		function run(){
+	    			map.removeLayer(geojson);
+		    		$('.info').remove();
+		    		
+	    			datatblnew = [];
+	    			locationCount = [];
+	    			orgtotal=[];
+	    			sectorCount=[];
+	    			statusCount = [];
 
-	    		thedata.forEach(function(d){
-	    			if(d['Org Type'].toUpperCase() == org){
-	    				datatblnew.push(d);
-	    				let tempat = d['Sub Dstrict'].toUpperCase();
-		    			if(locationCount[tempat]){
-		    				locationCount[tempat] += 1;
-		    			}else{
-		    				locationCount[tempat] = 1;
-		    				let select = tempat.replace(' ','-');
-		    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
-		    			}
-
-		    			let org=d['Implementing Agency'];
-		    			let cek = $.inArray( org, orgtotal ); 
-		    			if(cek == -1){
-		    				orgtotal.push(org);
-		    			}
-
-		    			let sectortype = d['Sector/Cluster'].toUpperCase();
-		    			if(sectorCount[sectortype]){
-		    				sectorCount[sectortype] += 1;
-		    			}else{
-		    				sectorCount[sectortype] = 1;
-		    			}
-
-		    			let stattype = d['Status'].toUpperCase();
-		    			if(stattype!=''){
-		    				if(statusCount[stattype]){
-			    				statusCount[stattype] += 1;
+		    		thedata.forEach(function(d){
+		    			if(d['Org Type'].toUpperCase() == org && d['Reporting period'] == periodselect && (regionselect == 0 || regionselect == d['Sub Dstrict'].toUpperCase())){
+		    				datatblnew.push(d);
+		    				let tempat = d['Sub Dstrict'].toUpperCase();
+			    			if(locationCount[tempat]){
+			    				locationCount[tempat] += 1;
 			    			}else{
-			    				statusCount[stattype] = 1;
+			    				locationCount[tempat] = 1;
+			    				let select = tempat.replace(' ','-');
+			    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
+			    			}
+
+			    			let org=d['Implementing Agency'];
+			    			let cek = $.inArray( org, orgtotal ); 
+			    			if(cek == -1){
+			    				orgtotal.push(org);
+			    			}
+
+			    			let sectortype = d['Sector/Cluster'].toUpperCase();
+			    			if(sectorCount[sectortype]){
+			    				sectorCount[sectortype] += 1;
+			    			}else{
+			    				sectorCount[sectortype] = 1;
+			    			}
+
+			    			let stattype = d['Status'].toUpperCase();
+			    			if(stattype!=''){
+			    				if(statusCount[stattype]){
+				    				statusCount[stattype] += 1;
+				    			}else{
+				    				statusCount[stattype] = 1;
+				    			}
 			    			}
 		    			}
-	    			}
-	    		})
+		    		})
 
-	    		drawregiondiv();
-	    		f_drawDataTable(datatblnew);
-	    		f_drawBarSect();
-	    		f_drawPieStat();
+		    		drawregiondiv();
+		    		f_drawDataTable(datatblnew);
+		    		f_drawBarSect();
+		    		f_drawPieStat();
 
-	    		let val3 = 0;
-	    		let val2 = 0;
-	    		for(x in locationCount){
-	    			val3++;
-	    			val2+=locationCount[x];
+		    		let val3 = 0;
+		    		let val2 = 0;
+		    		for(x in locationCount){
+		    			val3++;
+		    			val2+=locationCount[x];
+		    		}
+		    		$('#val3').html(val3);
+		    		$('#val2').html(val2);
+		    		$('#val1').html(orgtotal.length);
 	    		}
-	    		$('#val3').html(val3);
-	    		$('#val2').html(val2);
-	    		$('#val1').html(orgtotal.length);
 	    	}
 
 	    	function redrawbasesector(sector){
-	    		map.removeLayer(geojson);
-	    		$('.info').remove();
-	    		
-	    		organisationCount = [];
-    			statusCount = [];
-    			datatblnew = [];
-    			locationCount = [];
-    			orgtotal=[];
+	    		$('#loadinggif').show();
+	    		setTimeout(function(){
+	    			run();
+	    			$('#loadinggif').hide();
+	    		},500)
+	    		function run(){
+	    			map.removeLayer(geojson);
+		    		$('.info').remove();
+		    		
+		    		organisationCount = [];
+	    			statusCount = [];
+	    			datatblnew = [];
+	    			locationCount = [];
+	    			orgtotal=[];
 
-	    		thedata.forEach(function(d){
-	    			if(d['Sector/Cluster'].toUpperCase() == sector){
-	    				datatblnew.push(d);
-	    				let tempat = d['Sub Dstrict'].toUpperCase();
-		    			if(locationCount[tempat]){
-		    				locationCount[tempat] += 1;
-		    			}else{
-		    				locationCount[tempat] = 1;
-		    				let select = tempat.replace(' ','-');
-		    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
-		    			}
-
-
-		    			let orgtype = d['Org Type'].toUpperCase();
-		    			if(organisationCount[orgtype]){
-		    				organisationCount[orgtype] += 1;
-		    			}else{
-		    				organisationCount[orgtype] = 1;
-		    			}
-
-		    			let stattype = d['Status'].toUpperCase();
-		    			if(stattype!=''){
-		    				if(statusCount[stattype]){
-			    				statusCount[stattype] += 1;
+		    		thedata.forEach(function(d){
+		    			if(d['Sector/Cluster'].toUpperCase() == sector && d['Reporting period'] == periodselect && (regionselect == 0 || regionselect == d['Sub Dstrict'].toUpperCase())){
+		    				datatblnew.push(d);
+		    				let tempat = d['Sub Dstrict'].toUpperCase();
+			    			if(locationCount[tempat]){
+			    				locationCount[tempat] += 1;
 			    			}else{
-			    				statusCount[stattype] = 1;
+			    				locationCount[tempat] = 1;
+			    				let select = tempat.replace(' ','-');
+			    				$('#regionselect').append('<option value="'+select+'">'+tempat+'</option>');
+			    			}
+
+
+			    			let orgtype = d['Org Type'].toUpperCase();
+			    			if(organisationCount[orgtype]){
+			    				organisationCount[orgtype] += 1;
+			    			}else{
+			    				organisationCount[orgtype] = 1;
+			    			}
+
+			    			let stattype = d['Status'].toUpperCase();
+			    			if(stattype!=''){
+			    				if(statusCount[stattype]){
+				    				statusCount[stattype] += 1;
+				    			}else{
+				    				statusCount[stattype] = 1;
+				    			}
+			    			}
+
+			    			let org=d['Implementing Agency'];
+			    			let cek = $.inArray( org, orgtotal ); 
+			    			if(cek == -1){
+			    				orgtotal.push(org);
 			    			}
 		    			}
+		    		})
 
-		    			let org=d['Implementing Agency'];
-		    			let cek = $.inArray( org, orgtotal ); 
-		    			if(cek == -1){
-		    				orgtotal.push(org);
-		    			}
-	    			}
-	    		})
+		    		drawregiondiv();
+		    		f_drawPieOrg();
+		    		f_drawPieStat();
+		    		f_drawDataTable(datatblnew);
 
-	    		drawregiondiv();
-	    		f_drawPieOrg();
-	    		f_drawPieStat();
-	    		f_drawDataTable(datatblnew);
-
-	    		let val3 = 0;
-	    		let val2 = 0;
-	    		for(x in locationCount){
-	    			val3++;
-	    			val2+=locationCount[x];
+		    		let val3 = 0;
+		    		let val2 = 0;
+		    		for(x in locationCount){
+		    			val3++;
+		    			val2+=locationCount[x];
+		    		}
+		    		$('#val3').html(val3);
+		    		$('#val2').html(val2);
+		    		$('#val1').html(orgtotal.length);
 	    		}
-	    		$('#val3').html(val3);
-	    		$('#val2').html(val2);
-	    		$('#val1').html(orgtotal.length);
 	    	}
 
 	    	function drawinit(){
@@ -1020,7 +1080,8 @@
 		    		$('#val1').html(orgtotal.length);
 	    	}
 
-		    d3.json('idn_admin03_central_sulawesi_bnpb.geojson',function(jso){
+	    	$('#loadinggif').show();
+		    d3.json('idn_admin03_central_sulawesi_bnpb.geojson',function(jso){	
 	    		statesData = jso;
 	    		//call the original data
 	    		d3.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vSRE2L8WxiSD16rdGvr88HKu_bcD1NZQCXDPNO_Ngnt_x0VhnYASbhi6e1kiOoM1I_8Gc4ptufSNv2q/pub?gid=157106517&single=true&output=csv',function(data){
@@ -1028,7 +1089,7 @@
 		    		thedata = data;
 
 		    		drawinit();
-
+		    		$('#loadinggif').hide();
 		    	})	    	
 
 
