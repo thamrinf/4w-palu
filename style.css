@@ -3,115 +3,143 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
  */
-*{
-	color: #212121;
-	/*font-family: 'Roboto', sans-serif !important;*/
-	-webkit-font-smoothing: antialiased;
+* {
+    color: #212121;
+    /*font-family: 'Roboto', sans-serif !important;*/
+    -webkit-font-smoothing: antialiased;
 }
+
 body {
-  /*background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+    /*background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;*/
-  /*background: #f1f1f1;*/
+    /*background: #f1f1f1;*/
 }
-h1,h2,h3,h4,h5{
-	color: #212121;
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #212121;
 
 }
-#maincontainer{
-	margin-top: 0px;
-	padding: 0px 30px;
+
+#maincontainer {
+    margin-top: 0px;
+    padding: 0px 30px;
 }
-#header{
-  border-bottom-color: #dddddd;
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  margin-bottom: 5px;
+
+#header {
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    margin-bottom: 5px;
 }
 
 #datatable thead {
     background: #20bfb3;
 }
 
-#regions_div{
-	height: 700px;
-	margin-top: 0px;
+#regions_div {
+    height: 700px;
+    margin-top: 0px;
 }
-#regionselect{
-	width: 200px;
+
+#regionselect {
+    width: 100%;
     font-size: 0.8rem;
-    height: 25px;
+    height: 40px;
 }
-.blockmaptop{
-	border-right: 2px solid #f1f1f1;
-	text-align: center;
-	margin-top: 30px;
-  margin-bottom: 10px;
+
+.blockmaptop {
+    border-right: 2px solid #f1f1f1;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
-.pmap{
-	margin-top: 10px;
-	margin-bottom: 10px;
-  font-size: 1.3rem;
+
+.pmap {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.3rem;
 }
-.blockmaptop_title{
-	color: rgb(144, 144, 144);
+
+.blockmaptop_title {
+    color: rgb(144, 144, 144);
 }
-.blockmaptop .fa{
-	font-size: 0.8rem;
-	color: #a8a8a8;
+
+.blockmaptop .fa {
+    font-size: 0.8rem;
+    color: #a8a8a8;
 }
-.blockmaptop h4{
-	margin-top: 5px;
+
+.blockmaptop h4 {
+    margin-top: 5px;
 }
-.apanel{
-	padding-top: 10px;
-	padding-bottom: 10px;
-	background: #fff;
+
+.apanel {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #fff;
 }
-.paneltitle{
-	margin-bottom: 20px;
-	padding-bottom: 10px;
-	border-bottom: 2px solid #f1f1f1;
+
+.paneltitle {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f1f1f1;
 }
-.panelTitleLight{
-	font-size: 0.9rem;
-	color: rgb(144, 144, 144);
+
+.panelTitleLight {
+    font-size: 0.9rem;
+    color: rgb(144, 144, 144);
 }
-.panelTitleBold{
-	font-size: 1.25rem;
-	color: #212121;
+
+.panelTitleBold {
+    font-size: 1.25rem;
+    color: #212121;
 }
-.apanel_chart{
-	height: 250px;
+
+.apanel_chart {
+    height: 250px;
 }
-#topByOrg{
-	width: 100%;
+
+#topByOrg {
+    width: 100%;
 }
-.apaneltable td, .apaneltable th{
-	padding: 0px 5px;
+
+.apaneltable td,
+.apaneltable th {
+    padding: 0px 5px;
 }
-.tb-po-green{
-	/*color: #34a853;*/
-	color: #256feb;
+
+.tb-po-green {
+    /*color: #34a853;*/
+    color: #256feb;
 }
-.tb-po-red{
-	color: rgba(0, 0, 0, 0.11);
-	/*color: #eb4335;*/
+
+.tb-po-red {
+    color: rgba(0, 0, 0, 0.11);
+    /*color: #eb4335;*/
 }
-.bntu{
-	visibility: hidden;
+
+.bntu {
+    visibility: hidden;
 }
-thead{
-	background: #4285f4;
+
+thead {
+    background: #4285f4;
 }
-th{
-	color: #fff;
-	font-size: 0.8rem;
+
+th {
+    color: #fff;
+    font-size: 0.8rem;
 }
-.txtrght{
-	text-align: right;
+
+.txtrght {
+    text-align: right;
 }
 
 .page-item.active .page-link {
@@ -120,6 +148,7 @@ th{
     background-color: #4285f4;
     border-color: #4285f4;
 }
+
 .page-link {
     position: relative;
     display: block;
@@ -130,36 +159,42 @@ th{
     background-color: #fff;
     border: 1px solid #dee2e6;
 }
+
 div.dataTables_wrapper div.dataTables_info {
     padding-top: 0.85em;
     white-space: nowrap;
     font-size: 0.8rem;
 }
+
 div.dataTables_wrapper div.dataTables_filter label {
     font-weight: normal;
     white-space: nowrap;
     text-align: left;
     font-size: 0.9rem;
 }
-#datatable_length{
-	font-size: 0.9rem;
+
+#datatable_length {
+    font-size: 0.9rem;
 }
 
-.pagination{
-	font-size: 0.9rem;
+.pagination {
+    font-size: 0.9rem;
 }
-.countrytable{
-	color: #4682B4;
-	/*font-weight: bold;*/
+
+.countrytable {
+    color: #4682B4;
+    /*font-weight: bold;*/
 }
-.apanelmargintop20{
-	margin-top: 20px;
+
+.apanelmargintop20 {
+    margin-top: 20px;
 }
 
 .legend {
     line-height: 18px;
     color: #555;
 }
+
 .legend i {
     width: 18px;
     height: 18px;
@@ -182,47 +217,44 @@ div.dataTables_wrapper div.dataTables_filter label {
     background-color: green;
 
 
-@media only screen and (max-width: 500px) {
-    .hidewhenmobile {
-        display: none !important;
+    @media only screen and (max-width: 500px) {
+        .hidewhenmobile {
+            display: none !important;
+        }
+
+        .blockmaptop_title {
+            font-size: 0.8rem !important;
+        }
+
+        #regions_div {
+            height: 300px;
+        }
+
+        .apanelmargintop20 {
+            margin-top: initial;
+        }
+
+        #maincontainer {
+            padding: 0px 10px;
+        }
     }
-    .blockmaptop_title{
-    	font-size: 0.8rem !important; 
+
+    #loading {
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        position: fixed;
+        display: block;
+        opacity: 0.7;
+        background-color: #fff;
+        z-index: 99;
+        text-align: center;
     }
-    #regions_div{
-    	height: 300px;
+
+    #loading-image {
+        position: absolute;
+        top: 100px;
+        left: 240px;
+        z-index: 100;
     }
-    .apanelmargintop20{
-    	margin-top: initial;
-    }
-    #maincontainer{
-    	padding: 0px 10px;
-    }
-}
-
-#loading {
-   width: 100%;
-   height: 100%;
-   top: 0;
-   left: 0;
-   position: fixed;
-   display: block;
-   opacity: 0.7;
-   background-color: #fff;
-   z-index: 99;
-   text-align: center;
-}
-
-#loading-image {
-  position: absolute;
-  top: 100px;
-  left: 240px;
-  z-index: 100;
-}
-
-
-
-
-
-
-

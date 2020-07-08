@@ -45,7 +45,7 @@
 
   <body>
 
-  	<div id="loadinggif"><img src="http://fr.ethicon.com/sites/all/themes/ethicon/img/ajax-loader.gif"></div>
+  	<div id="loadinggif"><img src="hdx-loading.gif"></div>
 
   	<!-- HEADER -->
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
@@ -114,7 +114,7 @@
 	    				<div class="col-3 blockmaptop" style="border-right:0px">
 		    				<font class="blockmaptop_title">
 		    					<i class="" aria-hidden="true"></i>&nbsp;
-	    						Select Sub District
+	    						Select Sub-district
 	    					</font>
 	    					<center>
 	    						<select class="form-control" id="regionselect" data-default ="0">
@@ -1084,7 +1084,7 @@
 		    d3.json('idn_admin03_central_sulawesi_bnpb.geojson',function(jso){	
 	    		statesData = jso;
 	    		//call the original data
-	    		d3.csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vSRE2L8WxiSD16rdGvr88HKu_bcD1NZQCXDPNO_Ngnt_x0VhnYASbhi6e1kiOoM1I_8Gc4ptufSNv2q/pub?gid=157106517&single=true&output=csv',function(data){
+	    		d3.csv('4w_centralsulawesi_master.csv',function(data){
 		    		//set the data called to variable thedata
 		    		thedata = data;
 
